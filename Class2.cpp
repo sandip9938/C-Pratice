@@ -16,4 +16,5 @@ int main()
     cout<<m*k<<endl;
     cout<<m/k<<endl;
     cout<<m%k<<endl;
+    
 }
